@@ -1,0 +1,6 @@
+fastapi==0.68.0
+gtts==2.2.3
+protobuf==3.17.3
+starlette==0.16.0
+google-cloud-storage==1.41.0
+google-cloud-vision==2.4.0
